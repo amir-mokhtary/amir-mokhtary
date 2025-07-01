@@ -1,6 +1,5 @@
 ## Hi there,i'm Amirreza Mokhtary 👋
 
-<!--
 
 I'm an enthusiastic [ AI Developer | Machine Learning Hobbyist] from [Iran,Tehran].
 
