@@ -17,6 +17,6 @@ I'm an enthusiastic [ AI Developer | Machine Learning Hobbyist] from [Iran,Tehra
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Static Badge](https://img.shields.io/badge/seaborn)
-![Static Badge](https://img.shields.io/badge/numpy)
-![Static Badge](https://img.shields.io/badge/pandas)
+![Numpy]((https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white))
+
+
