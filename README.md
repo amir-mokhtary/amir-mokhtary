@@ -20,5 +20,6 @@ I'm an enthusiastic [ AI Developer | Machine Learning Hobbyist] from [Iran,Tehra
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-333333?style=for-the-badge&logo=pandas&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/google_colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
 
 
